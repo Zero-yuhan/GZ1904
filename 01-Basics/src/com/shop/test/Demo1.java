@@ -7,4 +7,7 @@ public interface Demo1 {
 	
 	//copy
 	void bbb();
+	
+	//primary
+	void ccc();
 }
